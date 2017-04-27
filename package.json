@@ -1,5 +1,5 @@
 {
-  "name": "natel-google-spreadsheet",
+  "name": "natel-google-sheets",
   "version": "0.0.1",
   "description": "Google Spreadsheet in Grafana",
   "main": "src/module.js",

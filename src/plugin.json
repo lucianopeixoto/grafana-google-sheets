@@ -1,7 +1,7 @@
 {
   "type": "datasource",
   "name": "Google Spreadsheet",
-  "id": "natel-google-spreadsheet",
+  "id": "natel-google-sheets",
 
   "info": {
     "description": "Google Spreadsheet",
